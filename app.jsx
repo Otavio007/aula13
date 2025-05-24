@@ -1,8 +1,8 @@
 function App() {
   return (
     <div>
-      <SaudacaoUsuario nome="Julia" />
-      <SaudacaoUsuario nome="Turma LPV" />
+      <SaudacaoUsuario nome="Otávio" />
+      <SaudacaoUsuario nome="Turma 10" />
     </div>
   );
 }
